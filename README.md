@@ -1,8 +1,6 @@
-### Hi , Im Emilio Morla 👋
+### Hi EVERYONE , Im EMILIO MORLA 👋👋​👋​
 
 ![banner youtube 2](https://github.com/user-attachments/assets/df04c81b-a7b3-4869-ae1f-9e9f4f5bc097)
-
-**emilicds/emilicds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 ### About me 😁 : 
@@ -13,4 +11,7 @@
 - 📱 I would like to collaborate on little proyects that help me getting better in a simulated or real work envirroment as developer. 
 - ⚡ Fact: Im self-educated on Informatics and Programming languages since 2023 , nowdays im student in Informatics at JGU Mainz since 2024.
 - 😍 Extra fact: I have a passion for mathematics, computer science and other sciences. 
+
+
+### Maybe you are also interested ✅ : 
 
