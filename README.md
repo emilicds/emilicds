@@ -1,8 +1,8 @@
 ### Hi , Im Emilio Morla 👋
 
+![banner youtube 2](https://github.com/user-attachments/assets/df04c81b-a7b3-4869-ae1f-9e9f4f5bc097)
 
 **emilicds/emilicds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 ### About me 😁 : 
