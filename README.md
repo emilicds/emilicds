@@ -1,4 +1,4 @@
-### Hi EVERYONE , Im EMILIO MORLA 👋👋​👋​
+### Hi EVERYONE , I am EMILIO MORLA 👋👋​👋​
 
 ![banner youtube 2](https://github.com/user-attachments/assets/df04c81b-a7b3-4869-ae1f-9e9f4f5bc097)
 
