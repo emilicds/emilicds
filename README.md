@@ -11,6 +11,6 @@
 - ⚙️ I’m currently working on my own progress at coding and my Youtube channel about Informatics (https://www.youtube.com/@emilicds)
 - 📚 I’m student at mouredev.pro since 2025 (https://mouredev.pro/)
 - 📱 I would like to collaborate on little proyects that help me getting better in a simulated or real work envirroment as developer. 
-- ⚡ Fact: Im self-educated on Informatics ans Programming languages since 2023 , and nowdays im student in Informatics at JGU Mainz since 2024.
+- ⚡ Fact: Im self-educated on Informatics and Programming languages since 2023 , nowdays im student in Informatics at JGU Mainz since 2024.
 - 😍 Extra fact: I have a passion for mathematics, computer science and other sciences. 
 
