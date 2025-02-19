@@ -15,3 +15,14 @@
 
 ### Maybe you are also interested ✅ : 
 
+Maybe you would like to see some of my best programming Videos of Youtube, all of them coding in Python using the Software visual
+Studio Code ⬇️ ​. 
+
+⚠️​ It is important to know that all my videos are in spanish ( Native taunge ) 
+
+
+(https://youtu.be/7qoW0zJEFvU?si=_ugUQ38uFyTZI6JL)
+
+
+
+[![Alt text](https://img.youtube.com/vi/7qoW0zJEFvU?si=_ugUQ38uFyTZI6JL/0.jpg)](https://www.youtube.com/watch?v=3RFAX3CbSGA)
