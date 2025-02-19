@@ -18,10 +18,16 @@
 Maybe you would like to see some of my best programming Videos of Youtube, all of them coding in Python using the Software visual
 Studio Code ⬇️ ​. 
 
-⚠️​ It is important to know that all my videos are in spanish ( Native taunge ) 
+⚠️​ It is important to remark that all my videos are in spanish ( Native taunge ) 
 
+- Boolean Algebra with Python ▶️​ -                                                                                                                                - Vectors with Python ▶️​ -
 
-(https://youtu.be/7qoW0zJEFvU?si=_ugUQ38uFyTZI6JL)
+                                                                                   
+(https://youtu.be/7qoW0zJEFvU?si=a__wXWWZoXQWco5-)                                                                                                                 (https://youtu.be/iXGfgODdssY?si=-gsbST9CwbQrCzex)
+                                                                                                                                                                 
+                                                                                                                                                                  
+![miniatura logica](https://github.com/user-attachments/assets/7350783d-fe22-444a-a3ef-efb8947623c8)                                                               ![mqdefault](https://github.com/user-attachments/assets/e65c1f2b-464a-4981-af10-60cffbf30d9e)                                                                                                                                            
+
 
 
 
