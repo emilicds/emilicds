@@ -44,9 +44,9 @@ Studio Code ⬇️ ​.
 
 ### Maybe you are also Interested ​✅​ : 
 
-My GitHub stadistics , 
+My GitHub stadistics :
 
-[![emilicds's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilicds)](https://github.com/emilicds/github-readme-stats)
+![emilicds's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilicds&show_icons=true&theme=dark)
 
 
 
