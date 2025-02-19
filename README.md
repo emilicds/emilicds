@@ -22,14 +22,14 @@ Studio Code ⬇️ ​.
 ⚠️​ It is important to remark that all my videos are in spanish ( Native taunge ) 
 
 
-- Boolean Algebra with Python ▶️​ -  
+- Boolean Algebra with Python ▶️​ :  
                                                                                   
 (https://youtu.be/7qoW0zJEFvU?si=a__wXWWZoXQWco5-)                                                                                                               
                                                                                                                                                                  
                                                                                                                                                                   
 ![miniatura logica](https://github.com/user-attachments/assets/7350783d-fe22-444a-a3ef-efb8947623c8)                                                                                                                                                                                                        
 
-- Vectors with Python ▶️​ -
+- Vectors with Python ▶️​ :
 
  (https://youtu.be/iXGfgODdssY?si=-gsbST9CwbQrCzex)
 
