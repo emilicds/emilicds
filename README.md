@@ -12,8 +12,14 @@
 - ⚡ Fact: Im self-educated on Informatics and Programming languages since 2023 , nowdays im student in Informatics at JGU Mainz since 2024.
 - 😍 Extra fact: I have a passion for mathematics, computer science and other sciences. 
 
+### One of my last code repository ​📟​ : 
 
-### Maybe you are also interested ✅ : 
+
+Mini Project Tkinter : 
+(​https://github.com/emilicds/Mini-Project-tkinter)
+
+
+### My bests Youtube Videos ​🎬​ : 
 
 Maybe you would like to see some of my best programming Videos of Youtube, all of them coding in Python using the Software visual
 Studio Code ⬇️ ​. 
@@ -34,3 +40,13 @@ Studio Code ⬇️ ​.
  (https://youtu.be/iXGfgODdssY?si=-gsbST9CwbQrCzex)
 
  ![mqdefault](https://github.com/user-attachments/assets/e65c1f2b-464a-4981-af10-60cffbf30d9e)     
+
+
+### Maybe you are also Interested ​✅​ : 
+
+My GitHub stadistics , 
+
+[![emilicds's GitHub stats](https://github-readme-stats.vercel.app/api?username=emilicds)](https://github.com/emilicds/github-readme-stats)
+
+
+
